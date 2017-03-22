@@ -1,27 +1,30 @@
 <template>
   <div id="app">
-    <div class="main">
-      <div class="title">
-        <h1>{{ title }}</h1>
-        <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時失去聯絡...</h3>
-      </div>
-      <hr>
-      <div class="news-wrapper">
-        <h2>相關新聞：</h2>
-        <ul class="news">
-          <li v-for="item in news">
-            <a :href="item.url" target="_blank">{{ item.title }}</a>
-          </li>
-        </ul>
-      </div>
-      <div class="action">
-        <a class="share" :href="fbLink" target="_blank">希望你可以幫忙轉發這消息，運用網路的力量，協助找到李明哲</a>
+    <div class="bg" :style="bgStyle">
+      <div class="main">
+        <div class="title">
+          <h1>{{ title }}</h1>
+          <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時失去聯絡...</h3>
+        </div>
+        <hr>
+        <div class="news-wrapper">
+          <h2>相關新聞：</h2>
+          <ul class="news">
+            <li v-for="item in news">
+              <a :href="item.url" target="_blank">{{ item.title }}</a>
+            </li>
+          </ul>
+        </div>
+        <div class="action">
+          <a class="share" :href="fbLink" target="_blank">希望你可以幫忙轉發這消息，運用網路的力量，協助找到李明哲</a>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import BG from './assets/Guangzhou.jpg';
 
 const title = '有人看見李明哲嗎？';
 const fbID = '1330773760349289';
@@ -37,6 +40,9 @@ export default {
   name: 'app',
   data() {
     return {
+      bgStyle: {
+        backgroundImage: `url(${BG})`,
+      },
       title,
       news: [
         { title: '共諜案」報復？民進黨前黨工李明哲 傳入境中國失聯', url: 'http://www.storm.mg/article/236333' },
@@ -71,24 +77,30 @@ html, body {
   text-align: center;
   width: 100%;
   height: 100%;
-  background-image: url('//upload.wikimedia.org/wikipedia/commons/2/2d/Guangzhou_(6344321124).jpg');
-  background-size: cover;
-  background-position: 50% 50%;
-  position: relative;
-  color: white;
-  padding: 1em;
+
 }
 
-#app::before {
+.bg::before {
   content: '';
   display: block;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: inset 0 0 10em #333;
+  background-color: rgba(0, 0, 0, 0.3);
   position: absolute;
   z-index: 1;
+}
+
+.bg {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+  position: relative;
+  color: white;
+  padding: 1em;
 }
 
 a {
