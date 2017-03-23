@@ -3,6 +3,7 @@
     <div class="bg" :style="bgStyle"></div>
     <div class="main">
       <div class="title">
+        <img :src="pic" alt="李明哲大頭照">
         <h1>{{ title }}</h1>
         <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時失去聯絡...</h3>
       </div>
@@ -26,6 +27,7 @@
 
 <script>
 import BG from './assets/Guangzhou.jpg';
+import pic from './assets/pic.jpg';
 
 (() => {
   const d = document;
@@ -53,6 +55,7 @@ export default {
         backgroundImage: `url(${BG})`,
       },
       title,
+      pic,
       news: [
         { title: '共諜案」報復？民進黨前黨工李明哲 傳入境中國失聯', url: 'http://www.storm.mg/article/236333' },
         { title: '民進黨前黨工李明哲失聯？ 陸委會：未接獲陸方通報', url: 'https://udn.com/news/story/1/2355286' },
@@ -95,8 +98,8 @@ html, body {
   bottom: 0;
   left: 0;
   right: 0;
-  box-shadow: inset 0 0 10em rgba(0, 0, 0, 0.6);
-  background-color: rgba(0, 0, 0, 0.6);
+  box-shadow: inset 0 0 10em rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.8);
   position: absolute;
   z-index: 1;
 }
@@ -116,7 +119,7 @@ a {
 }
 
 .main {
-  top: 25%;
+  top: 15%;
   z-index: 10;
   position: relative;
   color: white;
@@ -128,6 +131,12 @@ a {
 .title {
   margin-bottom: 2em;
   line-height: 1.8;
+}
+
+.title img {
+  width: 33%;
+  max-width: 20em;
+  margin-bottom: 2em;
 }
 
 .main h1 {
@@ -152,7 +161,7 @@ ul.news li {
 #disqus_thread {
   margin: 2em auto;
   padding: 2em;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.6);
 }
 
 </style>
