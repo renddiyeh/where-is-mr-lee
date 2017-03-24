@@ -8,6 +8,8 @@
         <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時失去聯絡...</h3>
       </div>
       <hr>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/25">家屬最新聲明</a> 2017-03-24 10:00</p>
+      <hr>
       <div class="news-wrapper">
         <h2>相關新聞：</h2>
         <ul class="news">
