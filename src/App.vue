@@ -11,7 +11,7 @@
         <p class="share"><a href="https://blog.whereislee.org/2017/03/25">家屬最新聲明</a> 2017-03-24 10:00</p>
       <hr>
       <div class="news-wrapper">
-        <h2>相關新聞：</h2>
+        <h2>海內外相關新聞：</h2>
         <ul class="news">
           <li v-for="item in news">
             <a :href="item.url" target="_blank">{{ item.title }}</a>
@@ -49,9 +49,12 @@ export default {
       },
       pic,
       news: [
-        { title: '共諜案」報復？民進黨前黨工李明哲 傳入境中國失聯', url: 'http://www.storm.mg/article/236333' },
-        { title: '民進黨前黨工李明哲失聯？ 陸委會：未接獲陸方通報', url: 'https://udn.com/news/story/1/2355286' },
-        { title: '民進黨前黨工李明哲赴陸失蹤　海基會發函海協會協尋', url: 'http://www.nownews.com/n/2017/03/21/2450734' },
+        { title: 'Rights advocate missing in China: family, friends: Taipei Times', url: 'http://www.taipeitimes.com/News/front/archives/2017/03/23/2003667298' },
+        { title: '香港東網：台NGO工作者失蹤5日　妻：現在是生是死？', url: 'http://hk.on.cc/tw/bkn/cnt/news/20170324/bkntw-20170324170144307-0324_04011_001.html' },
+        { title: '新加坡聯合早報：传李明哲失踪 台陆委会吁赴大陆谨慎', url: 'http://www.zaobao.com.sg/realtime/china/story20170324-739720' },
+        { title: '風傳媒：「共諜案」報復？民進黨前黨工李明哲 傳入境中國失聯', url: 'http://www.storm.mg/article/236333' },
+        { title: '聯合報：民進黨前黨工李明哲失聯？ 陸委會：未接獲陸方通報', url: 'https://udn.com/news/story/1/2355286' },
+        { title: 'NowNews：民進黨前黨工李明哲赴陸失蹤　海基會發函海協會協尋', url: 'http://www.nownews.com/n/2017/03/21/2450734' },
       ],
     };
   },
