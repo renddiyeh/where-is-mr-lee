@@ -85,7 +85,7 @@ html, body {
   left: 0;
   right: 0;
   box-shadow: inset 0 0 10em rgba(0, 0, 0, 0.8);
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
   z-index: 1;
 }
