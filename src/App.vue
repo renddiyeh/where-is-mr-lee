@@ -49,6 +49,7 @@ export default {
       },
       pic,
       news: [
+        { title: 'Missing Taiwanese Man May Be in Chinese Custody, Some Fear: New York Times', url: 'https://www.nytimes.com/2017/03/25/world/asia/taiwan-lee-ming-cheh-missing-china.html' },
         { title: 'Rights advocate missing in China: family, friends: Taipei Times', url: 'http://www.taipeitimes.com/News/front/archives/2017/03/23/2003667298' },
         { title: '香港東網：台NGO工作者失蹤5日　妻：現在是生是死？', url: 'http://hk.on.cc/tw/bkn/cnt/news/20170324/bkntw-20170324170144307-0324_04011_001.html' },
         { title: '新加坡聯合早報：传李明哲失踪 台陆委会吁赴大陆谨慎', url: 'http://www.zaobao.com.sg/realtime/china/story20170324-739720' },
