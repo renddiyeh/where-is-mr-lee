@@ -49,14 +49,15 @@ export default {
       },
       pic,
       news: [
+        { title: '美國之音：台湾NGO工作者李明哲被中国国安部门拘留', url: 'http://www.voachinese.com/a/news-taiwan-ngo-arrest-20170328/3784745.html' },
+        { title: '新加坡聯合早報：李明哲妻：丈夫被大陆国安单位拘留', url: 'http://www.zaobao.com.sg/realtime/china/story20170328-741197' },
+        { title: '中央社：李明哲妻：丈夫被陸國安單位拘留', url: 'http://www.cna.com.tw/news/firstnews/201703285029-1.aspx' },
         { title: 'Missing Taiwanese Man May Be in Chinese Custody, Some Fear: New York Times', url: 'https://www.nytimes.com/2017/03/25/world/asia/taiwan-lee-ming-cheh-missing-china.html' },
         { title: 'Rights advocate missing in China: family, friends: Taipei Times', url: 'http://www.taipeitimes.com/News/front/archives/2017/03/23/2003667298' },
-        { title: '香港東網：台NGO工作者失蹤5日　妻：現在是生是死？', url: 'http://hk.on.cc/tw/bkn/cnt/news/20170324/bkntw-20170324170144307-0324_04011_001.html' },
-        { title: '新加坡聯合早報：传李明哲失踪 台陆委会吁赴大陆谨慎', url: 'http://www.zaobao.com.sg/realtime/china/story20170324-739720' },
         { title: '朝日新聞：中国で台湾人男性が行方不明に元与党職員', url: 'http://www.asahi.com/articles/ASK3S547NK3SUHBI00S.html' },
         { title: '風傳媒：「共諜案」報復？民進黨前黨工李明哲 傳入境中國失聯', url: 'http://www.storm.mg/article/236333' },
         { title: '聯合報：民進黨前黨工李明哲失聯？ 陸委會：未接獲陸方通報', url: 'https://udn.com/news/story/1/2355286' },
-        { title: 'NowNews：民進黨前黨工李明哲赴陸失蹤　海基會發函海協會協尋', url: 'http://www.nownews.com/n/2017/03/21/2450734' },
+        { title: '自由亞洲電台：台北市文山社區大學李明哲已失聯超過34小時', url: 'http://www.rfa.org/mandarin/yataibaodao/gangtai/hx1-03202017104024.html' },
       ],
     };
   },
