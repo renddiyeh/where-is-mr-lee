@@ -3,8 +3,7 @@
     <div class="bg" :style="bgStyle"></div>
     <div class="main">
       <div class="title">
-        <h1>尋找李明哲</h1>
-        <h2>WhereisLee</h2>
+        <h1>尋找李明哲 WhereisLee</h1>
         <img :src="pic" alt="李明哲大頭照">
         <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時失去聯絡...</h3>
         <h3>A human rights advocate Ming-Che Li is missing after traveling to China via Macau on 19 Mar.2017, sparking concern among family and friends....</h3>
@@ -12,7 +11,8 @@
       <hr>
       <h2>新聞稿與聲明 Press Release</h2>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/58">李明哲妻李凈瑜最新聲明</a> 2017-03-28 14:00</p>
-        <p class="share"><a href="https://blog.whereislee.org/2017/03/14">【採訪通知】尋找李明哲–家屬及民間社團聯合記者會</a> 2017-03-24 10:00</p>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/54">採訪通知/【尋找李明哲】送藥去海基會行動</a> 2017-03-27 23:00</p>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/14">採訪通知/【尋找李明哲】家屬及民間社團聯合記者會</a> 2017-03-24 10:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/25">家屬聲明-李明哲妻 李凈瑜</a> 2017-03-24 09:00</p>
         <p style="color: #F08080">由於網站流量過大，如果以上網頁發生異常或無法存取請稍候再試。</p>
         <p style="color: #F08080">Due to heavy traffic on the website, please try again later if you can't access to above pages.</p>
