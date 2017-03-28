@@ -10,6 +10,7 @@
       </div>
       <hr>
       <h2>新聞稿與聲明 Press Release</h2>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/60">圖輯/【尋找李明哲】送藥去海基會行動</a> 2017-03-28 22:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/58">李明哲妻李凈瑜最新聲明</a> 2017-03-28 14:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/54">採訪通知/【尋找李明哲】送藥去海基會行動</a> 2017-03-27 23:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/14">採訪通知/【尋找李明哲】家屬及民間社團聯合記者會</a> 2017-03-24 10:00</p>
