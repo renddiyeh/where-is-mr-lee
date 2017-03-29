@@ -24,7 +24,7 @@
         <p style="color: #F08080">Due to heavy traffic on the website, please try again later if you can't access to above pages.</p>
       <hr>
       <div class="news-wrapper">
-        <h2>相關新聞 News Articles</h2>
+        <h2>相關國際聲明 Statements from others</h2>
         <ul class="news">
           <li v-for="item in news">
             <a :href="item.url" target="_blank">{{ item.title }}</a>
@@ -62,11 +62,9 @@ export default {
       },
       pic,
       news: [
-        { title: '聯合報：李明哲遭陸拘留 綠委：政府硬起來、大陸快放人', url: 'https://udn.com/news/story/1/2371550' },
-        { title: '自由時報：國台辦證實李明哲被捕 民進黨團要中國「立刻放人」', url: 'http://news.ltn.com.tw/news/politics/breakingnews/2019807' },
-        { title: '中央社：李明哲遭拘留調查 國台辦首度證實', url: 'http://www.cna.com.tw/news/firstnews/201703295011-1.aspx' },
-        { title: '風傳媒：前黨工李明哲中國被捕 民進黨團：中國未通報，違反《兩岸司法互助協議》', url: 'http://www.storm.mg/article/240731' },
-        { title: '自由亞洲電台：李明哲人在何處? 其妻輾轉送藥', url: 'http://www.rfa.org/mandarin/yataibaodao/gangtai/hx-03282017134815.html' },
+        { title: '國際特赦組織：【中國】中國以模糊的國家安全為由 拘留台灣NGO工作者李明哲', url: 'https://www.amnesty.tw/news/2450' },
+        { title: 'Amnesty International:China: Taiwan NGO worker detained on vague national security charges', url: 'https://www.amnesty.org/en/latest/news/2017/03/china-release-taiwan-ngo-worker/' },
+        { title: 'Quotes from Human Rights Watch', url: 'https://blog.whereislee.org/2017/03/84' },
       ],
     };
   },
