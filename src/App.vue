@@ -8,6 +8,7 @@
         <img :src="pic" alt="李明哲大頭照">
         <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時遭當局以違反國家安全名義逮補。</h3>
         <h3>A human rights advocate Ming-Che Li has been detained after traveling to China via Macau on 19 Mar.2017, China claimed they are investigating him on suspicion of "pursuing activities harmful to national security".</h3>
+        <h4><a href="https://blog.whereislee.org/whoislee">誰是李明哲？ Who is Lee?</a></h4>
       </div>
       <hr>
       <h2>新聞稿與聲明 Press Releases</h2>
@@ -23,8 +24,14 @@
         <p style="color: #F08080">由於網站流量過大，如果以上網頁發生異常或無法存取請稍候再試。</p>
         <p style="color: #F08080">Due to heavy traffic on the website, please try again later if you can't access to above pages.</p>
       <hr>
+      <h2>國際聲援 Statements from others</h2>
+        <p class="share"><a href="https://www.amnesty.tw/news/2450">國際特赦組織：【中國】中國以模糊的國家安全為由 拘留台灣NGO工作者李明哲</a></p>
+        <p class="share"><a href="https://www.amnesty.org/en/latest/news/2017/03/china-release-taiwan-ngo-worker/">Amnesty International:China: Taiwan NGO worker detained on vague national security charges</a></p>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/73">Quotes from Human Rights Watch</a>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/73">Frontline Defenders: Lee Ming-cheh detained by Chinese authorities</a>
+      <hr>
       <div class="news-wrapper">
-        <h2>相關國際聲明 Statements from others</h2>
+        <h2>國際報導 International News</h2>
         <ul class="news">
           <li v-for="item in news">
             <a :href="item.url" target="_blank">{{ item.title }}</a>
@@ -62,9 +69,13 @@ export default {
       },
       pic,
       news: [
-        { title: '國際特赦組織：【中國】中國以模糊的國家安全為由 拘留台灣NGO工作者李明哲', url: 'https://www.amnesty.tw/news/2450' },
-        { title: 'Amnesty International:China: Taiwan NGO worker detained on vague national security charges', url: 'https://www.amnesty.org/en/latest/news/2017/03/china-release-taiwan-ngo-worker/' },
-        { title: 'Quotes from Human Rights Watch', url: 'https://blog.whereislee.org/2017/03/84' },
+        { title: '自由亞洲電台：台湾人权团体召开“释放李明哲”记者会 境内外媒体塞爆会场', url: 'http://www.rfa.org/mandarin/yataibaodao/gangtai/hx-03292017113234.html' },
+        { title: 'TIME: Wife of Taiwanese Rights Activist Detained in China Speaks Out About His Disappearance', url: 'http://time.com/4716175/taiwan-missing-activist-china/' },
+        { title: 'The Guardian: China says it has detained Taiwanese activist missing since 19 March', url: 'https://www.theguardian.com/world/2017/mar/29/missing-taiwanese-human-rights-activist-detained-by-china' },
+        { title: 'New York Times: China Says It Has Detained Rights Activist From Taiwan', url: 'https://www.nytimes.com/2017/03/29/world/asia/china-taiwan-activist-lee-ming-cheh.html?_r=0' },
+        { title: 'Reuters: Tell us the charges or free Taiwan activist, Taipei tells Beijing', url: 'http://www.reuters.com/article/us-china-taiwan-idUSKBN170084?il=0' },
+        { title: 'ABC News: China confirms detention of Taiwan pro-democracy activist', url: 'http://abcnews.go.com/International/wireStory/taiwan-democracy-activist-detained-china-46416241' },
+        { title: 'Aljazeera: Missing Taiwan activist allegedly detained in China', url: 'http://www.aljazeera.com/news/2017/03/missing-taiwan-activist-allegedly-detained-china-170328144407417.html' },
       ],
     };
   },
