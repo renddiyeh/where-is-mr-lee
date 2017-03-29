@@ -11,7 +11,7 @@
         <h4><a href="https://blog.whereislee.org/whoislee">誰是李明哲？ Who is Lee?</a></h4>
       </div>
       <hr>
-      <h2>新聞稿與聲明 Press Releases</h2>
+      <h2>新聞稿與聲明 Press releases and statements</h2>
         <p class="share"><a href="/static/lmj_20161217_recording.zip">錄音檔/李明哲20161217-相同皮膚下的鴻溝</a> 2017-03-29 15:10</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/80">李明哲妻李凈瑜聲明</a> 2017-03-29 14:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/73">採訪通知/【釋放李明哲】家屬及民間團體回應國台辦記者會</a> 2017-03-29 11:00</p>
@@ -31,7 +31,7 @@
         <p class="share"><a href="https://blog.whereislee.org/2017/03/73">Frontline Defenders: Lee Ming-cheh detained by Chinese authorities</a>
       <hr>
       <div class="news-wrapper">
-        <h2>國際報導 International News</h2>
+        <h2>國際報導 International News Coverage</h2>
         <ul class="news">
           <li v-for="item in news">
             <a :href="item.url" target="_blank">{{ item.title }}</a>
