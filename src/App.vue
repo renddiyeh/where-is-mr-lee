@@ -3,13 +3,15 @@
     <div class="bg" :style="bgStyle"></div>
     <div class="main">
       <div class="title">
-        <h1>尋找李明哲 WhereisLee</h1>
+        <h1>釋放李明哲 Release Lee</h1>
         <img :src="pic" alt="李明哲大頭照">
-        <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時失去聯絡...</h3>
-        <h3>A human rights advocate Ming-Che Li is missing after traveling to China via Macau on 19 Mar.2017, sparking concern among family and friends....</h3>
+        <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時以違反國家安全之名遭當局逮補。</h3>
+        <h3>A human rights advocate Ming-Che Li has been detained after traveling to China via Macau on 19 Mar.2017, China claimed they are investigating him on suspicion of "pursuing activities harmful to national security".</h3>
       </div>
       <hr>
-      <h2>新聞稿與聲明 Press Release</h2>
+      <h2>新聞稿與聲明 Press Releases</h2>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/73">採訪通知/【釋放李明哲】家屬及民間團體回應國台辦記者會</a> 2017-03-29 11:00</p>
+        <p class="share"><a href="https://blog.whereislee.org/lee_photos">圖輯/李明哲照片</a> 2017-03-29 10:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/60">圖輯/【尋找李明哲】送藥去海基會行動</a> 2017-03-28 22:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/58">李明哲妻李凈瑜最新聲明</a> 2017-03-28 14:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/54">採訪通知/【尋找李明哲】送藥去海基會行動</a> 2017-03-27 23:00</p>
@@ -27,11 +29,11 @@
         </ul>
       </div>
       <div class="action">
-        <p class="share">希望你可以幫忙轉發這消息，運用網路的力量，協助找到李明哲</p>
+        <p class="share">希望你可以幫忙轉發這消息，運用網路的力量，協助李明哲早日回家</p>
         <div class="shareaholic-canvas" data-app="share_buttons" data-app-id="26706199"></div>
         <a class="more" href="//blog.whereislee.org">持續關注</a>
       </div>
-      <div id="disqus_thread"></div>
+      <!--<div id="disqus_thread"></div>-->
     </div>
   </div>
 </template>
@@ -57,12 +59,11 @@ export default {
       },
       pic,
       news: [
-        { title: '美國之音：台湾NGO工作者李明哲被中国国安部门拘留', url: 'http://www.voachinese.com/a/news-taiwan-ngo-arrest-20170328/3784745.html' },
-        { title: '中央社：李明哲妻：丈夫被陸國安單位拘留', url: 'http://www.cna.com.tw/news/firstnews/201703285029-1.aspx' },
-        { title: 'Missing Taiwanese Man May Be in Chinese Custody, Some Fear: New York Times', url: 'https://www.nytimes.com/2017/03/25/world/asia/taiwan-lee-ming-cheh-missing-china.html' },
-        { title: 'Rights advocate missing in China: family, friends: Taipei Times', url: 'http://www.taipeitimes.com/News/front/archives/2017/03/23/2003667298' },
-        { title: '朝日新聞：中国で台湾人男性が行方不明に元与党職員', url: 'http://www.asahi.com/articles/ASK3S547NK3SUHBI00S.html' },
-        { title: '自由亞洲電台：台北市文山社區大學李明哲已失聯超過34小時', url: 'http://www.rfa.org/mandarin/yataibaodao/gangtai/hx1-03202017104024.html' },
+        { title: '聯合報：李明哲遭陸拘留 綠委：政府硬起來、大陸快放人', url: 'https://udn.com/news/story/1/2371550' },
+        { title: '自由時報：國台辦證實李明哲被捕 民進黨團要中國「立刻放人」', url: 'http://news.ltn.com.tw/news/politics/breakingnews/2019807' },
+        { title: '中央社：李明哲遭拘留調查 國台辦首度證實', url: 'http://www.cna.com.tw/news/firstnews/201703295011-1.aspx' },
+        { title: '風傳媒：前黨工李明哲中國被捕 民進黨團：中國未通報，違反《兩岸司法互助協議》', url: 'http://www.storm.mg/article/240731' },
+        { title: '自由亞洲電台：李明哲人在何處? 其妻輾轉送藥', url: 'http://www.rfa.org/mandarin/yataibaodao/gangtai/hx-03282017134815.html' },
       ],
     };
   },
