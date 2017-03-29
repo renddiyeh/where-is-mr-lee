@@ -5,11 +5,12 @@
       <div class="title">
         <h1>釋放李明哲 Release Lee</h1>
         <img :src="pic" alt="李明哲大頭照">
-        <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時以違反國家安全之名遭當局逮補。</h3>
+        <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時遭當局以違反國家安全名義逮補。</h3>
         <h3>A human rights advocate Ming-Che Li has been detained after traveling to China via Macau on 19 Mar.2017, China claimed they are investigating him on suspicion of "pursuing activities harmful to national security".</h3>
       </div>
       <hr>
       <h2>新聞稿與聲明 Press Releases</h2>
+        <p class="share"><a href="https://blog.whereislee.org/2017/03/80">李明哲妻李凈瑜聲明</a> 2017-03-29 14:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/73">採訪通知/【釋放李明哲】家屬及民間團體回應國台辦記者會</a> 2017-03-29 11:00</p>
         <p class="share"><a href="https://blog.whereislee.org/lee_photos">圖輯/李明哲照片</a> 2017-03-29 10:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/60">圖輯/【尋找李明哲】送藥去海基會行動</a> 2017-03-28 22:00</p>
