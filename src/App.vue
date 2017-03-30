@@ -24,9 +24,9 @@
         <p style="color: #F08080">由於網站流量過大，如果以上網頁發生異常或無法存取請稍候再試。</p>
         <p style="color: #F08080">Due to heavy traffic on the website, please try again later if you can't access to above pages.</p>
       <hr>
-      <h2>國際聲援 Statements from others</h2>
+      <h2>國際聲援與行動 Statements from others</h2>
         <h3><a href="http://www.tahr.org.tw/node/1806" target="_new">Free Li Ming-Che! The Joint Statement from NGOs</a></h3>
-        <p class="share"><a href="https://www.amnesty.tw/news/2450">國際特赦組織：【中國】中國以模糊的國家安全為由 拘留台灣NGO工作者李明哲</a></p>
+        <h3><a href="https://www.amnesty.tw/campaigns/2451" target="_new">國際特赦組織：立即行動：【台灣】非政府組織工作者於中國遭拘留 無法與外界聯繫</a></h3>
         <p class="share"><a href="https://www.amnesty.org/en/latest/news/2017/03/china-release-taiwan-ngo-worker/">Amnesty International:China: Taiwan NGO worker detained on vague national security charges</a></p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/73">Quotes from Human Rights Watch</a>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/73">Frontline Defenders: Lee Ming-cheh detained by Chinese authorities</a>
