@@ -4,11 +4,11 @@
     <div class="main">
       <div class="title">
         <h1>李明哲無罪·釋放李明哲</h1>
-        <h2>Release Lee</h2>
+        <h2>Release Li</h2>
         <img :src="pic" alt="李明哲大頭照">
         <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時遭當局以違反國家安全名義逮補。</h3>
         <h3>A human rights advocate Ming-Che Li has been detained after traveling to China via Macau on 19 Mar.2017, China claimed they are investigating him on suspicion of "pursuing activities harmful to national security".</h3>
-        <h4><a href="https://blog.whereislee.org/whoislee">誰是李明哲？ Who is Lee?</a></h4>
+        <h4><a href="https://blog.whereislee.org/whoislee">誰是李明哲？ Who is Ming-Che Li?</a></h4>
       </div>
       <hr>
       <h2>新聞稿與聲明 Press releases and statements</h2>
@@ -25,6 +25,7 @@
         <p style="color: #F08080">Due to heavy traffic on the website, please try again later if you can't access to above pages.</p>
       <hr>
       <h2>國際聲援 Statements from others</h2>
+        <h3><a href="http://www.tahr.org.tw/node/1806" target="_new">Free Li Ming-Che! The Joint Statement from NGOs</a></h3>
         <p class="share"><a href="https://www.amnesty.tw/news/2450">國際特赦組織：【中國】中國以模糊的國家安全為由 拘留台灣NGO工作者李明哲</a></p>
         <p class="share"><a href="https://www.amnesty.org/en/latest/news/2017/03/china-release-taiwan-ngo-worker/">Amnesty International:China: Taiwan NGO worker detained on vague national security charges</a></p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/73">Quotes from Human Rights Watch</a>
