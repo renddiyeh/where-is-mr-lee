@@ -7,7 +7,7 @@
         <h2>Release Lee</h2>
         <img :src="pic" alt="李明哲大頭照">
         <h3>關注中國社會發展及維權人士的台灣非政府組織工作者李明哲，在2017年3月19日上午從澳門進入中國時遭當局以違反國家安全名義拘留。</h3>
-        <h3>A human rights advocate Ming-Che Li has been detained after traveling to China via Macau on 19 Mar.2017, China claimed they are investigating him on suspicion of "pursuing activities harmful to national security".</h3>
+        <h3>A human rights advocate Lee Ming-cheh has been detained after traveling to China via Macau on 19 Mar.2017, China claimed they are investigating him on suspicion of "pursuing activities harmful to national security".</h3>
         <h4><a href="https://blog.whereislee.org/whoislee">誰是李明哲？ Who is Ming-Che Li?</a></h4>
       </div>
       <hr>
