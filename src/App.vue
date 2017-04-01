@@ -53,7 +53,7 @@
 
 <script>
 import BG from './assets/Guangzhou.jpg';
-import pic from './assets/pic.jpg';
+import pic from './assets/pic_new.jpg';
 
 (() => {
   const d = document;
