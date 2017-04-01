@@ -42,9 +42,9 @@
       </div>
       <div class="action">
         <h3>您也可以幫忙尋找李明哲！</h3>
-        <p class="share">希望你可以選擇喜歡的社群工具轉發這消息，運用網路的力量，協助李明哲早日回家</p>
+        <p class="share">1.你可以選擇喜歡的社群工具轉發這消息，運用網路的力量，協助李明哲早日回家</p>
         <div class="shareaholic-canvas" data-app="share_buttons" data-app-id="26706199"></div>
-        <p class="share">希望你也可以對事件粉絲團按讚來追蹤事件，以獲得最新訊息</p>
+        <p class="share">2.你也可以對事件粉絲團按讚來追蹤事件，以獲得最新訊息</p>
         <div class="fb-page" data-href="https://www.facebook.com/whereislee.org/" data-tabs="timeline" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/whereislee.org/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/whereislee.org/">尋找李明哲</a></blockquote></div>
         <p><a class="more" href="//blog.whereislee.org">事件部落格</a></p>
       </div>
