@@ -13,6 +13,7 @@
       <hr>
       <h2>新聞稿與聲明 Press releases and statements</h2>
         <!--<p class="share"><a href="/static/lmj_20161217_recording.zip">錄音檔/李明哲20161217-相同皮膚下的鴻溝</a> 2017-03-29 15:10</p>-->
+        <p class="share"><a href="https://blog.whereislee.org/2017/04/100">李明哲妻李凈瑜聲明</a> 2017-04-04 14:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/95">圖片/李明哲妻 李凈瑜聲明</a> 2017-03-31 15:30</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/91">李凈瑜新聞稿</a> 2017-03-31 15:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/80">李明哲妻李凈瑜聲明</a> 2017-03-29 14:00</p>
@@ -42,9 +43,9 @@
       </div>
       <div class="action">
         <h3>您也可以幫忙尋找李明哲！</h3>
-        <p class="share">1.你可以選擇喜歡的社群工具轉發這消息，運用網路的力量，協助李明哲早日回家</p>
+        <p class="share">1. 你可以選擇喜歡的社群工具轉發這消息，運用網路的力量，協助李明哲早日回家</p>
         <div class="shareaholic-canvas" data-app="share_buttons" data-app-id="26706199"></div>
-        <p class="share">2.你也可以對事件粉絲團按讚來追蹤事件，以獲得最新訊息</p>
+        <p class="share">2. 你也可以對事件粉絲團按讚來追蹤事件，以獲得最新訊息</p>
         <div class="fb-page" data-href="https://www.facebook.com/whereislee.org/" data-tabs="timeline" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/whereislee.org/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/whereislee.org/">尋找李明哲</a></blockquote></div>
         <p><a class="more" href="//blog.whereislee.org">事件部落格</a></p>
       </div>
