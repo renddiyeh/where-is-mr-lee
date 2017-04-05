@@ -173,6 +173,7 @@ ul.news li {
   padding: 1em;
   display: inline-block;
   font-size: 1.2em;
+  margin-bottom: 4em;
 }
 
 @media (min-width: 40em) {
