@@ -17,11 +17,7 @@
         <p class="share"><a href="https://blog.whereislee.org/2017/03/95">圖片/李明哲妻 李凈瑜聲明</a> 2017-03-31 15:30</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/91">李凈瑜新聞稿</a> 2017-03-31 15:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/80">李明哲妻李凈瑜聲明</a> 2017-03-29 14:00</p>
-        <p class="share"><a href="https://blog.whereislee.org/2017/03/73">採訪通知/【釋放李明哲】家屬及民間團體回應國台辦記者會</a> 2017-03-29 11:00</p>
-        <p class="share"><a href="https://blog.whereislee.org/2017/03/60">圖輯/【尋找李明哲】送藥去海基會行動</a> 2017-03-28 22:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/58">李明哲妻李凈瑜最新聲明</a> 2017-03-28 14:00</p>
-        <p class="share"><a href="https://blog.whereislee.org/2017/03/54">採訪通知/【尋找李明哲】送藥去海基會行動</a> 2017-03-27 23:00</p>
-        <p class="share"><a href="https://blog.whereislee.org/2017/03/14">採訪通知/【尋找李明哲】家屬及民間社團聯合記者會</a> 2017-03-24 10:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/25">家屬聲明-李明哲妻 李凈瑜</a> 2017-03-24 09:00</p>
         <p style="color: #F08080">由於網站流量過大，如果以上網頁發生異常或無法存取請稍候再試。</p>
         <p style="color: #F08080">Due to heavy traffic on the website, please try again later if you can't access to above pages.</p>
