@@ -13,6 +13,7 @@
       <hr>
       <h2>新聞稿與聲明 Press releases and statements</h2>
         <!--<p class="share"><a href="/static/lmj_20161217_recording.zip">錄音檔/李明哲20161217-相同皮膚下的鴻溝</a> 2017-03-29 15:10</p>-->
+        <p class="share"><a href="https://blog.whereislee.org/2017/04/108">李明哲妻李凈瑜回覆國台辦聲明</a> 2017-04-09 21:20</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/04/100">李明哲妻李凈瑜聲明</a> 2017-04-04 14:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/95">圖片/李明哲妻 李凈瑜聲明</a> 2017-03-31 15:30</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/03/91">李凈瑜新聞稿</a> 2017-03-31 15:00</p>
