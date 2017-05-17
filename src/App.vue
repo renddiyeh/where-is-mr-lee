@@ -2,6 +2,7 @@
   <div id="app">
     <div class="bg" :style="bgStyle"></div>
     <div class="main">
+      <counter />
       <div class="title">
         <h1>李明哲無罪·釋放李明哲</h1>
         <h2>Release Lee</h2>
@@ -59,6 +60,8 @@
 import BG from './assets/Guangzhou.jpg';
 import pic from './assets/pic_new.jpg';
 
+import Counter from './components/Counter';
+
 (() => {
   const d = document;
   const s = d.createElement('script');
@@ -69,6 +72,9 @@ import pic from './assets/pic_new.jpg';
 
 export default {
   name: 'app',
+  components: {
+    Counter,
+  },
   data() {
     return {
       bgStyle: {
@@ -112,7 +118,7 @@ html, body {
   left: 0;
   right: 0;
   box-shadow: inset 0 0 10em rgba(0, 0, 0, 0.8);
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   z-index: 1;
 }
