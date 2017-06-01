@@ -13,7 +13,9 @@
       </div>
       <hr>
       <h2>新聞稿與聲明 Press releases and statements</h2>
-        <p class="share"><a href="https://blog.whereislee.org/2017/05/141">台灣人權工作者李明哲之妻李凈瑜訪美感言 2017.05.23</a> 2017-05-23 10:00</p>
+        <p class="share"><a href="https://blog.whereislee.org/2017/05/149">《我為什麼不請律師》李明哲妻李凈瑜聲明</a> 2017-06-01 12:00</p>
+        <p class="share"><a href="https://blog.whereislee.org/2017/05/143">李凈瑜請台灣政府向中國提出家屬人道探視要求</a> 2017-05-31 15:00</p>
+        <p class="share"><a href="https://blog.whereislee.org/2017/05/141">台灣人權工作者李明哲之妻李凈瑜訪美感言</a> 2017-05-23 10:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/05/138">李明哲國際救援小組新聞稿 20170516</a> 2017-05-17 20:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/05/133">「李明哲國際救援⼩組」⾏前聲明</a> 2017-04-12 16:00</p>
         <p class="share"><a href="https://blog.whereislee.org/2017/04/120">李明哲妻  李凈瑜回覆國台辦聲明</a> 2017-04-12 16:00</p>
